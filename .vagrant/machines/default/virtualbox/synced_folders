@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/php":{"guestpath":"/var/www/php","hostpath":"/private/var/www/php","disabled":false,"__vagrantfile":true}}}
